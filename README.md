@@ -8,6 +8,9 @@
 # клонируй
 git clone
 
+# заходи
+cd codeex_is_the_best_company
+
 # Устанавливай
 npm install
 
